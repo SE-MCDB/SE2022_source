@@ -19,9 +19,9 @@
 
 ## 发布
 
-|         | REPO                                                       | DEPLOY                                        | URL  |
+|         | 🌈 REPO                                                       | 🍿DEPLOY                                        | 🧙URL  |
 | ------- | ---- | ------- | ------- |
-| UNI-APP |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [`apk`](https://github.com/SE-mcdb/SE2022_Frontend_App/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
-| WEB     | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Web)     | [Web](https://github.com/SE-mcdb/Web) | [`w.spoc.uno`](http://w.spoc.uno) |
-| Manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
+| uni-app |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [`apk`](https://github.com/SE-mcdb/SE2022_Frontend_App/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
+| web     | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Web)     | [Web](https://github.com/SE-mcdb/Web) | [`w.spoc.uno`](http://w.spoc.uno) |
+| manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
 
