@@ -28,7 +28,7 @@
 - Resources: [repo](https://github.com/SE-mcdb/SE2022_source)
 - Backend Code: [repo](https://github.com/SE-mcdb/SE2022_Backend)
 
-| 🦋 FRONTEND |  🪹 CODE                                                     | 🍿 DEPLOYMENT                                        | 🧙LINK  |
+| 🦋 FRONTEND |  🪹 CODE                                                     | 🍿 DEPLOYMENT                                        | 🔗 LINK  |
 | ------- | ---- | ------- | ------- |
 | uni-app |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [`apk`](https://github.com/SE-mcdb/SE2022_Frontend_App/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
 | manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
