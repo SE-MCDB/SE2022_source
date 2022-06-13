@@ -22,7 +22,7 @@
 - [企业专家对接AI算法参考](./参考/企业专家对接AI算法参考.pdf)
 - [论文标题向量化思路](./参考/论文标题向量化思路.pdf)
 
-### AI
+## AI
 
 - [训练](./AI)
 - [数据集](https://drive.google.com/file/d/1_2E0V4_1FZE9ZJdFGkLQR4rjdLK3Oz7h/view?usp=sharing)
