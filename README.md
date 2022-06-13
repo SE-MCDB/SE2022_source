@@ -19,8 +19,14 @@
 - [Django基础](./参考/Django基础)
 - [参考周报：ARS-FR-2](./参考/ARS-FR-2_周报_0506.docx)
 - [基于图神经网络的异构图表示学习和推荐算法研究](./参考/基于图神经网络的异构图表示学习和推荐算法研究.docx)
-- [企业专家对接AI算法参考](./参考/企业专家对接AI算法参考.pdf)、[数据集](https://drive.google.com/file/d/1_2E0V4_1FZE9ZJdFGkLQR4rjdLK3Oz7h/view?usp=sharing)
+- [企业专家对接AI算法参考](./参考/企业专家对接AI算法参考.pdf)
 - [论文标题向量化思路](./参考/论文标题向量化思路.pdf)
+
+### AI
+
+- [训练](./AI)
+- [数据集](https://drive.google.com/file/d/1_2E0V4_1FZE9ZJdFGkLQR4rjdLK3Oz7h/view?usp=sharing)
+- [模型](https://drive.google.com/file/d/1iORaaGlxte-r2JrN650ccDe-VEivYBnA/view)
 
 ## 发布
 
